@@ -1,0 +1,6 @@
+@MultiAuth_HostAddress = http://localhost:5182
+
+GET {{MultiAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
